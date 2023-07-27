@@ -1,0 +1,8 @@
+node_modules
+yarn-error.log
+credentials.ts
+credentials.js
+dist/*
+
+index-v2.js
+index-v3.js
